@@ -13,7 +13,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<app.runtime>4.2.2</app.runtime>
+		<app.runtime>4.2.0</app.runtime>
 		<mule.maven.plugin.version>3.3.5</mule.maven.plugin.version>
 	</properties>
 
@@ -35,7 +35,6 @@
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>worldtimezone-service-harrysingh</applicationName>
-				<version>4.2.0</version>
 				<properties>
         			<ClientID>8cfef10c2a174b8fabace2ebeaa7aa7a</ClientID>
         			<ClientSecret>822bFdd8baa1474fb945ac46c594984C</ClientSecret>
