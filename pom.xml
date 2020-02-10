@@ -35,7 +35,6 @@
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>worldtimezone-service-harrysingh</applicationName>
-				<objectStoreV1>false</objectStoreV1>
 				<properties>
         			<ClientID>8cfef10c2a174b8fabace2ebeaa7aa7a</ClientID>
         			<ClientSecret>822bFdd8baa1474fb945ac46c594984C</ClientSecret>
