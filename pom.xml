@@ -34,6 +34,7 @@
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
+				<objectStoreV2>true</objectStoreV2>
 				<applicationName>worldtimezone-service-harrysingh</applicationName>
 				<properties>
         			<ClientID>8cfef10c2a174b8fabace2ebeaa7aa7a</ClientID>
