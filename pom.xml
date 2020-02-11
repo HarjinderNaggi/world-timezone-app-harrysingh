@@ -28,8 +28,8 @@
 				<cloudHubDeployment>
 				<uri>https://anypoint.mulesoft.com/</uri>
 				<muleVersion>4.2.2</muleVersion>
-				<username>HSinghNaggi</username>
-				<password>Harry@5171232</password>
+				<username>${anypoint.username}</username>
+				<password>${anypoint.password}</password>
 				<businessGroup>Freelancer</businessGroup>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
